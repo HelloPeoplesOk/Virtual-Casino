@@ -24,8 +24,7 @@ Blackjack
     You can ask to hit or stand
     If the card face is 0 that means the value is 10
     If the card face is A that means it is an Ace
-    When you stand and have an ace if allowed it will prompt you what you would prefer your
-	ace's value to be
+    When you stand and have an ace if allowed it will prompt you what you would prefer your ace's value to be
     Also when you stand it will show what the dealer does and prompt you with the results
     If you make 500 money with no debt you win
     If you get 500 in debt you lose
@@ -51,19 +50,22 @@ Numbers
     Fun | * * *
 
 Update log
+
     v0.3    | Aug 20 2025
         Slots was made
     v0.6    | Aug 21 2025
         Slots QoL
         Slots bug fixes
         Blackjack was made
-    v1.0    | Aug 22 2025
+    v0.9    | Aug 22 2025
         Slots QoL
         Slots bug fixes
         Blackjack QoL
         Blackjack bug fixes
         VirtualCasino was created
         numbers was created
+    v1.0   | Aug 25 2025
+        Bug Fixed when q was typed in VirtualCasino wouldn't quit
 
 
 
